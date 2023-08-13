@@ -22,7 +22,9 @@
 - Producing health-related fact-check articles (50+ so far) and newsletters for First Check, a platform dedicated to combating health misinformation.
 - Optimized 160+ websites for web page speed and ad revenue by setting up Google tools and WordPress plugins.
 
-### ACHIEVEMENTS/CERTIFICATIONs
+### Projects
+
+### ACHIEVEMENTS/CERTIFICATIONS
 - Received Merit Scholarship award for outstanding performance in academics from EFL University for two consecutive years.
 - Certified Fact-Checking trainer by one of the biggest Fact-Checking training networks across the world i.e Google News Initiative.
 - Led comprehensive training sessions on Agricultural and climate change misinformation at the National Institute of Agricultural Extension Management (MANAGE), Hyderabad.
