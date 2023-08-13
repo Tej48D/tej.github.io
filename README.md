@@ -1,8 +1,10 @@
 ## Program Lead
 
-#### Technical Skills: Generative AI (Google), Tableau, Pinpoint, Sprinklr, C, MATLAB, Premier Pro, Canva, InVID, Crowd Tangle, Buzzsumo, Google lens, OSINT Skills, MS Office Automation, Digital Marketing (Google), Infographics (Michigan University). MATLAB
+### Technical Skills: 
+- Generative AI (Google), Tableau, Pinpoint, Sprinklr, C, MATLAB, Premier Pro, Canva, InVID, Crowd Tangle, Buzzsumo, Google lens, OSINT Skills, MS Office Automation, Digital Marketing (Google), Infographics (Michigan University). MATLAB
 
-#### Professional Skills: Digital Investigation, Risk Analysis, Content Verification, Delegation, Problem-solving, Critical Thinking, Research & Training, Policy Assessment, Source Evaluation
+### Professional Skills: 
+- Digital Investigation, Risk Analysis, Content Verification, Delegation, Problem-solving, Critical Thinking, Research & Training, Policy Assessment, Source Evaluation
 
 ### Education 
 - M.A., Journalism and Mass Communications | The English and Foreign Languages University, Hyderabad  (_June 2020_)	
