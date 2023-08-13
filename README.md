@@ -7,9 +7,8 @@
 - Digital Investigation, Risk Analysis, Content Verification, Delegation, Problem-solving, Critical Thinking, Research & Training, Policy Assessment, Source Evaluation
 
 ### Education 
-M.A., Journalism and Mass Communications | The English and Foreign Languages University, Hyderabad  (_June 2020_)	
-
-B.Tech., Electrical and Electronic Engineering | Andhra Loyola Institute of Engineering and Technology, Vijayawada, India (_April 2012_)	
+- M.A., Journalism and Mass Communications | The English and Foreign Languages University, Hyderabad  (_June 2020_)
+- B.Tech., Electrical and Electronic Engineering | Andhra Loyola Institute of Engineering and Technology, Vijayawada, India (_April 2012_)
 
 ### Work Experience
 **Program Lead @ Dataleads (_September 2020 - Present_)**
