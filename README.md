@@ -1,4 +1,4 @@
-## Program Lead
+##  Intel Analyst | Fact-Checker | Researcher | Policy Enthusiast
 
 ### Technical Skills: 
 - Generative AI (Google), Tableau, Pinpoint, Sprinklr, C, MATLAB, Premier Pro, Canva, InVID, Crowd Tangle, Buzzsumo, Google lens, OSINT Skills, MS Office Automation, Digital Marketing (Google), Infographics (Michigan University). MATLAB
