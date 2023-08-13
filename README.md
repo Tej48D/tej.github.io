@@ -23,15 +23,15 @@
 - Optimized 160+ websites for web page speed and ad revenue by setting up Google tools and WordPress plugins.
 
 ### ACHIEVEMENTS/CERTIFICATIONs
-- Received Merit Scholarship award for outstanding performance in academics from EFL University for two consecutive years.
-- Certified Fact-Checking trainer by one of the biggest Fact-Checking training networks across the world i.e Google News Initiative.
-- Led comprehensive training sessions on Agricultural and climate change misinformation at the National Institute of Agricultural Extension Management (MANAGE), Hyderabad.
-- Fact-Checking Trainer for Kerala Government’s Flagship programme on Media Literacy programme titled ‘Satyameva jayathe’.
-- Conducted training sessions on Data Verification for Data Dialogue, a nationwide Data Journalism boot camp.
-- Featured fact-check article in International Fact-Checking Network's (Poynter Institute) Newsletter.
-- Certified professional in MS Office Automation. 
-- Certified professional in Sprinklr research analyst pro.
-- Won ‘Inter-Departmental Cricket Tournament’ at the EFL University.
+-> Received Merit Scholarship award for outstanding performance in academics from EFL University for two consecutive years.
+-> Certified Fact-Checking trainer by one of the biggest Fact-Checking training networks across the world i.e Google News Initiative.
+-> Led comprehensive training sessions on Agricultural and climate change misinformation at the National Institute of Agricultural Extension Management (MANAGE), Hyderabad.
+-> Fact-Checking Trainer for Kerala Government’s Flagship programme on Media Literacy programme titled ‘Satyameva jayathe’.
+-> Conducted training sessions on Data Verification for Data Dialogue, a nationwide Data Journalism boot camp.
+-> Featured fact-check article in International Fact-Checking Network's (Poynter Institute) Newsletter.
+-> Certified professional in MS Office Automation. 
+-> Certified professional in Sprinklr research analyst pro.
+-> Won ‘Inter-Departmental Cricket Tournament’ at the EFL University.
 
 
 
