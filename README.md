@@ -16,7 +16,7 @@
 - Monitoring social media trends involving potential real-world harm, addressing trust and safety policies, misinformation/disinformation, hate speech, harassment, and extremist content.
 - Provided clients with investigative reports on sensitive and intricate subjects such as Climate Change Misinformation, Gender Harassment, and Election Misinformation.
 - Developing curriculum decks for Google News Initiative's fact-checking program, covering subjects like Visual Verification, Geo-location Verification, and Social Media Listening.
-- Managing and led a 12-member team, overseeing daily operations and providing training to ensure optimal performance.
+- Managing and leading a 12-member team, overseeing daily operations and providing training to ensure optimal performance.
 - Collaborated in developing a data repository and automated search solution for various social media platforms.
 - Verified 400+ misinformation videos/posts, adept with social media monitoring tools including INVID, Crowd Tangle, Tweet Deck, Google Lens, and OSINT tools.
 - Producing health-related fact-check articles (50+ so far) and newsletters for First Check, a platform dedicated to combating health misinformation.
